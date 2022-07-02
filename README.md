@@ -22,4 +22,4 @@
 
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT](https://github.com/drishb/angela-yu-tasks/blob/main/License.txt)
