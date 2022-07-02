@@ -14,7 +14,7 @@
 
 ## links for mini projects
 
-1)  [resume and contact me](https:www.google.com)
+1)  [resume](https://github.com/drishb/angela-yu-tasks/blob/main/personal_resume.html) and [contact me](https://github.com/drishb/angela-yu-tasks/blob/main/contact.html)
 2)
 3)
 4)
